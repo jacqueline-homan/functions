@@ -1,0 +1,6 @@
+/home/jacqueline/F-sharp/functions/functions/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/F-sharp/functions/functions/bin/Debug/functions.exe.mdb
+/home/jacqueline/F-sharp/functions/functions/bin/Debug/functions.exe
+/home/jacqueline/F-sharp/functions/functions/obj/x86/Debug/functions.exe
+/home/jacqueline/F-sharp/functions/functions/obj/x86/Debug/functions.exe.mdb
+/home/jacqueline/F-sharp/functions/functions/bin/Debug/xunit.abstractions.dll
